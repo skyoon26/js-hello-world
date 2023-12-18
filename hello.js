@@ -4,8 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello World! It's a nice day!")
-console.log("'Nevermore'.")
+console.log("Hello World! I hope you have a good day!")
+console.log("'Nevermore!'")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
